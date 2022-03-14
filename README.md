@@ -1,4 +1,12 @@
+## Chao Wang
+
 ### Hi there 👋
+
+
+[![GitHub Badge](https://img.shields.io/github/followers/waynechao128?style=social)](https://github.com/waynechao128?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/waynechao128?style=social)](https://twitter.com/waynechao128)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=Q0IKlZwAAAAJ&hl=en)
+
 
 <!--
 **waynechao128/waynechao128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
